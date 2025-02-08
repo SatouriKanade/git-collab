@@ -1,2 +1,2 @@
 # git-collab
-README.md msbe by Pudos
+README.md made by Pudos
